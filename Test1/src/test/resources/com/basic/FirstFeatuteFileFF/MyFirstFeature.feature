@@ -1,4 +1,4 @@
-Feature: Fb login validation
+Feature: Fb login validation1
 
 Scenario:  login validation
 Given user should be on login page
